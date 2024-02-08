@@ -5,7 +5,7 @@
  * Based on original code by:
  * Owen Lyke @ SparkFun Electronics
  * Original Creation Date: April 17 2019
- * Utkarsh Test
+ * Utkarsh
  * ** This example is based on InvenSense's _confidential_ Application Note "Programming Sequence for DMP Hardware Functions".
  * ** We are grateful to InvenSense for sharing this with us.
  * 
